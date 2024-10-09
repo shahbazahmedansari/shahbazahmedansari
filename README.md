@@ -21,7 +21,7 @@
 
 ## Connect with me
 
-| LinkedIn | Twitter | Github | Discord |
-| -------- | --------- | ------- | ------- |
-| [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahbazahmedansari/) | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Shahbaz__16) | [![github](https://skillicons.dev/icons?i=github)]([https://twitter.com/Shahbaz__16](https://github.com/shahbazahmedansari)) | [![medium](https://skillicons.dev/icons?i=medium)](https://medium.com/@ansarishahbaz96) |
+| LinkedIn | Twitter | Github | 
+| -------- | --------- | ------- | 
+| [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahbazahmedansari/) | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Shahbaz__16) | [![github](https://skillicons.dev/icons?i=github)]([https://twitter.com/Shahbaz__16](https://github.com/shahbazahmedansari)) | 
 
