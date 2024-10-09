@@ -9,8 +9,8 @@
 - 🍵 Tea Enthusiast: I can't start my day without a warm cup of tea.
 
 
-## 🛠️ Technologies and Tools I used:
-![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github,vercel,nodejs,mongodb,postgresql,prisma,html,css,sass)
+## 🛠️ Technologies and Tools I use:
+![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github,vercel,nodejs,mongodb,postgresql,prisma,html,css,sass, vscode, postman)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahbazahmedansari&show_icons=true&theme=tokyonight)
