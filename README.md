@@ -9,7 +9,7 @@
 - 🍵 Tea Enthusiast: I can't start my day without a warm cup of tea.
 
 
-## 🛠️ Technologies and Tools I use:
+## 🛠️ Technologies and Tools I use
 ![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github,vercel,vite,nodejs,express,mongodb,postgresql,prisma,html,css,sass,vscode,postman,discord,npm,notion)
 
 
