@@ -10,7 +10,7 @@
 
 
 ## 🛠️ Technologies and Tools I use:
-![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github,vercel,nodejs,mongodb,postgresql,prisma,html,css,sass, vscode, postman)
+![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github,vercel,nodejs,mongodb,postgresql,prisma,html,css,sass,vscode,postman)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahbazahmedansari&show_icons=true&theme=tokyonight)
