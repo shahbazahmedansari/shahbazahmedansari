@@ -12,15 +12,16 @@
 ## 🛠️ Technologies and Tools I used:
 ![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github,vercel,nodejs,mongodb,postgresql,prisma,html,css,sass)
 
-## Connect with me
-
-| LinkedIn | Instagram | Twitter | Discord |
-| -------- | --------- | ------- | ------- |
-| [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahbazahmedansari/) | [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/shahbazahmedansari/) | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Shahbaz__16) | [![discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/users/shahbazansari) |
-
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahbazahmedansari&show_icons=true&theme=tokyonight)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shahbazahmedansari&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+
+## Connect with me
+
+| LinkedIn | Instagram | Twitter | Discord |
+| -------- | --------- | ------- | ------- |
+| [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahbazahmedansari/) | [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/shahbazahmedansari/) | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Shahbaz__16) | [![discord](https://skillicons.dev/icons?i=discord)](https://www.discord.com/users/shahbazansari) |
 
