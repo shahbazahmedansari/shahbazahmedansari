@@ -13,7 +13,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,ts,tailwind,react,next,git,github,vercel,vite,nodejs,express,mongodb,postgresql,prisma,html,css,sass,vscode,postman,discord,npm,notion)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahbazahmedansari&show_icons=true&theme=tokyonight)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shahbazahmedansari&show_icons=true&theme=tokyonight)-->
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shahbazahmedansari&show_icons=true&locale=en&layout=compact&theme=tokyonight)
@@ -21,7 +21,7 @@
 
 ## Connect with me
 
-| LinkedIn | Twitter | Github | 
+| LinkedIn | Twitter | Github |
 | -------- | --------- | ------- | 
 | [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahbazahmedansari/) | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Shahbaz__16) | [![github](https://skillicons.dev/icons?i=github)]([https://twitter.com/Shahbaz__16](https://github.com/shahbazahmedansari)) | 
 
