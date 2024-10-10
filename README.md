@@ -19,9 +19,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shahbazahmedansari&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
 
-<!-- ## Connect with me
+## Connect with me
 
 | LinkedIn | Twitter | Github |
 | -------- | --------- | ------- | 
-| [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahbazahmedansari/) | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Shahbaz__16) | [![github](https://skillicons.dev/icons?i=github)]([https://twitter.com/Shahbaz__16](https://github.com/shahbazahmedansari)) | -->
+| [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/shahbazahmedansari/) | [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Shahbaz__16) | [![github](https://skillicons.dev/icons?i=github)]([https://twitter.com/Shahbaz__16](https://github.com/shahbazahmedansari)) | 
 
