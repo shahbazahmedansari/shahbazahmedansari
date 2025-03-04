@@ -1,9 +1,9 @@
 ## Hello there! I am Shahbaz 👋
-- 🔭 I'm a passionate developer on an exciting coding journey.
+- 🔭 I write code and am passionate about building products.
 - 💡 Currently, I'm focusing on personal projects and honing my skills to create something remarkable.
 - 🚀 I use daily: JavaScript, Typescript, Git, Bash, VS Code
 - 💻 I work using: NextJS, React, ShadCN, Tailwind CSS, Node.js, MongoDB, PostgreSQL, Vercel, GitHub
-- ⚡️ Fun fact: I'm a huge fan of Dragon Ball, I love to eat, travel and, watch movies and anime.
+- ⚡️ Fun fact: I'm a huge fan of Dragon Ball, I love to eat, travel, and watch movies and anime.
 - 📫 You can contact me at ansarishahbaz96@gmail.com
 - 😄 Pronouns: He/Him
 - 🍵 Tea Enthusiast: I can't start my day without a warm cup of tea.
