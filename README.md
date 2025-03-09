@@ -1,5 +1,5 @@
 ## Hello there! I am Shahbaz 👋
-- 🔭 I write code and am passionate about building products.
+- 🔭 I write code.
 - 💡 Currently, I'm focusing on personal projects and honing my skills to create something remarkable.
 - 🚀 I use daily: JavaScript, Typescript, Git, Bash, VS Code
 - 💻 I work using: NextJS, React, ShadCN, Tailwind CSS, Node.js, MongoDB, PostgreSQL, Vercel, GitHub
